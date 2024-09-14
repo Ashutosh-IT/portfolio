@@ -34,7 +34,7 @@ function Sidebar(){
             <Name>Ashutosh Kumar</Name>
             <Title>Student • Software Developer • Explorer</Title>
 
-            <ResumeBtn href="#"><Icons src={tie} alt="tie"/>Download Resume</ResumeBtn>
+            <ResumeBtn href="resume.pdf" download={"Ashutosh_Kumar_CV.pdf"}><Icons src={tie} alt="tie"/>Download Resume</ResumeBtn>
             <SocialLinks>
                 <a href="https://www.geeksforgeeks.org/user/kashu1959la/" target="_blank" rel="noreferrer"><Icons src={gfg} alt="github" /></a>
                 <a href="https://github.com/Ashutosh-IT" target="_blank" rel="noreferrer"><Icons src={github} alt="github" /></a>
